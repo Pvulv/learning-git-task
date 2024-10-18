@@ -10,3 +10,4 @@ for shop, products in shops.items():
 Suma = sum(len(product) for product in shops.values())
 print("W sumie kupuję", Suma, "produktów")
 print("nie mam pomysłu co dodać")
+print("Pozdrowionka z Łodzi ;D")
